@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(348,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(348,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(369,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(369,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(396,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(396,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(419,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(419,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(444,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(444,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(465,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(465,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(551,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(620,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(624,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\den99\source\repos\Lab4KSKS\Lab4KSKS\HeaderKSKS4.h(624,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Lab4KSKS.vcxproj -> C:\Users\den99\source\repos\Lab4KSKS\Debug\Lab4KSKS.exe
